@@ -1,0 +1,15 @@
+Intelligent Building, un nom ingénieux pour une idée avant-guardiste.
+
+Pistes évoquées
+---------------
+
+- Nombre important (illimité ?) de capteurs
+- Protocole de communication standard entre capteurs / serveur(s)
+- Architecture :    centralisée (un seul serveur)
+                    semi-centralisée (un serveur principal, des serveurs "relais")
+                    décentralisée (aucun serveur principal)
+- Machine learning : le réseau apprend à reconnaître des évènements complexes, selon un emploi du temps prédéfini par exemple.
+- Un nouveau capteur ajouté au réseau apprend de ses pairs lorsque le réseau ne reconnaît pas un évènement
+    - est-ce que les capteurs doivent reconnaître à leur niveau les évènements ?
+- Des réactions sont décidées en fonction des évènements reconnus.
+- Analyse de données : tirer des informations cohérentes de l'ensemble des capteurs
