@@ -12,9 +12,12 @@ Pistes évoquées
 - Un nouveau capteur ajouté au réseau apprend de ses pairs lorsque le réseau ne reconnaît pas un évènement
     - est-ce que les capteurs doivent reconnaître à leur niveau les évènements ?
 - Des réactions sont décidées en fonction des évènements reconnus.
+	- Comment indique-t-on les réactions ? Déclenchement d'un script Python ?
 - Analyse de données : tirer des informations cohérentes de l'ensemble des capteurs
 
 - Analyse par zones dans lesquelles certains capteurs seraient regroupés. Le résultat de l'analyse de la zone serait intégré aux mesures d'origines, et envoyées à la zone de niveau supérieur
 - La position des capteur doit faire partie des informations qu'ils renvoient
 - Les mesures doivent avoir, quand c'est possible, une unité
+
+- Le temps est une dimension supplémentaire (les mesures sont conservées un certain temps) ?
 
