@@ -13,3 +13,8 @@ Pistes évoquées
     - est-ce que les capteurs doivent reconnaître à leur niveau les évènements ?
 - Des réactions sont décidées en fonction des évènements reconnus.
 - Analyse de données : tirer des informations cohérentes de l'ensemble des capteurs
+
+- Analyse par zones dans lesquelles certains capteurs seraient regroupés. Le résultat de l'analyse de la zone serait intégré aux mesures d'origines, et envoyées à la zone de niveau supérieur
+- La position des capteur doit faire partie des informations qu'ils renvoient
+- Les mesures doivent avoir, quand c'est possible, une unité
+
