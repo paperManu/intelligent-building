@@ -1,3 +1,18 @@
+KLASSIFIED - KLASSIFIED - KLASSIFIED - KLASSIFIED - KLASSIFIED - KLASSIFIED
+						
+						
+						Projet P.H.U.T.H.U.R.E
+						-----------------------
+						
+						   [LOGO NOT FOUND]
+						
+						
+-- Projet Hautement Utopiste à Tendance Hyper Ultra REaliste
+-- "I have a dream..."
+-- Parce que le présent de demain est le futur d'aujourd'hui
+
+---------------
+
 Intelligent Building, un nom ingénieux pour une idée avant-guardiste.
 
 Pistes évoquées
@@ -8,9 +23,22 @@ Pistes évoquées
 - Architecture :    centralisée (un seul serveur)
                     semi-centralisée (un serveur principal, des serveurs "relais")
                     décentralisée (aucun serveur principal)
-- Machine learning : le réseau apprend à reconnaître des évènements complexes, selon un emploi du temps prédéfini par exemple.
+					
+					dans le cas des archis non centralisées :
+						- on a quand même une bdd unique qui se charge de regrouper les valeurs ?
+						- chaque élément du réseau peut broadcaster des évènements (d'autres noeuds du réseau y réagissent)
+	
+					communication bidirectionnelle entre capteurs/servers/actionneurs/etc.
+					couche de communication virtuelle pour gérer aussi bien du réseau que du rs232, que du...
+					communication basique : json (comme ça on se prend pas la tête)
+				
+					
+- Machine learning :
+	- le réseau apprend à reconnaître des évènements complexes, selon un emploi du temps prédéfini par exemple.
+	- on peut indiquer à l'ia qu'un évènement est en train de se passer (depuis X temps par exemple, et durant X temps)
 - Un nouveau capteur ajouté au réseau apprend de ses pairs lorsque le réseau ne reconnaît pas un évènement
     - est-ce que les capteurs doivent reconnaître à leur niveau les évènements ?
+	- les capteurs peuvent renvoyer, en plus des mesures, des évènements complets (directement déclenchés sur le pc)
 - Des réactions sont décidées en fonction des évènements reconnus.
 	- Comment indique-t-on les réactions ? Déclenchement d'un script Python ?
 - Analyse de données : tirer des informations cohérentes de l'ensemble des capteurs
@@ -21,3 +49,4 @@ Pistes évoquées
 
 - Le temps est une dimension supplémentaire (les mesures sont conservées un certain temps) ?
 
+- 
