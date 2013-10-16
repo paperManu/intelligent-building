@@ -3,9 +3,11 @@ KLASSIFIED - KLASSIFIED - KLASSIFIED - KLASSIFIED - KLASSIFIED - KLASSIFIED
 						
 						Projet P.H.U.T.H.U.R.E
 						-----------------------
-						
-						   [LOGO NOT FOUND]
-						
+       ___   _   _   _    _   _____   _   _   _    _   _____    _____
+      | _ \ | |_| | | |  | | |__ __| | |_| | | |  | | |  _  \  |    _|
+      |__ / |  _  | | |  | |   | |   |  _  | | |  | | |  _  /  |  _|
+      | |   | | | | | |__| |   | |   | | | | | |__| | | | \ \  | |___
+      |_|   |_| |_|  \____/    |_|   |_| |_|  \____/  |_|  |_| |_____|		
 						
 -- Projet Hautement Utopiste à Tendance Hyper Ultra REaliste
 -- "I have a dream..."
